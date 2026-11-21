@@ -20,5 +20,5 @@ jobs:
             exit 0
           fi
           gh api repos/yoonkiwoong/yoonkiwoong.github.io/dispatches \
-            -f event_type=plex-paper-updated \
+            -f event_type=design-updated \
             -f "client_payload[sha]=${GITHUB_SHA}"

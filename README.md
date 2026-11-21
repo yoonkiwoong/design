@@ -1,21 +1,19 @@
-# Plex Paper
+# Design
 
 Styles that make web pages read like rendered Markdown — plain HTML, IBM Plex type, iOS system colors.
 
-See every element live at <https://yoonkiwoong.github.io/plex-paper/>.
-
-Plex Paper is an unofficial name taken from the IBM Plex typeface. This project is not affiliated with IBM.
+See every element live at <https://yoonkiwoong.github.io/design/>.
 
 ## Use
 
-Copy `plex-paper.css`, `plex-paper.js`, and the `fonts/` folder into your site.
+Copy `design.css`, `design.js`, and the `fonts/` folder into your site.
 
 ```html
 <link rel="stylesheet" href="fonts/fonts.css">
-<link rel="stylesheet" href="plex-paper.css">
+<link rel="stylesheet" href="design.css">
 
 <!-- at the end of <body> -->
-<script src="plex-paper.js"></script>
+<script src="design.js"></script>
 ```
 
 Most elements are plain HTML. Chips, callouts, tiles, cards, and charts use a few classes shown in `ELEMENTS.md`. Code blocks are highlighted when marked as `<pre data-lang="python">`. Pages still read well without JavaScript.

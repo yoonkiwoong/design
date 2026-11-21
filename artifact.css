@@ -1,4 +1,4 @@
-/* Plex Paper 아티팩트 층 — plex-paper.css 뒤에 싣는다. DESIGN.md '아티팩트에서 다른 것'.
+/* 아티팩트 층 — design.css 뒤에 싣는다. DESIGN.md '아티팩트에서 다른 것'.
    뷰어의 수동 토글(data-theme)이 시스템 설정을 이긴다. */
 
 :root[data-theme="dark"] {
