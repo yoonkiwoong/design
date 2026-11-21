@@ -1,4 +1,4 @@
-# Plex Paper Elements
+# Elements
 
 아티팩트에서 쓰는 모든 표현 요소 · 요소마다 결정 기록 포함 · 2026-08-31
 

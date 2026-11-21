@@ -2,8 +2,6 @@
 
 Styles that make web pages read like rendered Markdown — plain HTML, IBM Plex type, iOS system colors.
 
-See every element live at <https://yoonkiwoong.github.io/design/>.
-
 ## Use
 
 Copy `design.css`, `design.js`, and the `fonts/` folder into your site.
